@@ -25,5 +25,9 @@ public class OrderB {
 		System.out.println("998834225");
 		
 	}
+	public void pName() {
+		System.out.println("Project ONE");
+
+	}
 	
 }

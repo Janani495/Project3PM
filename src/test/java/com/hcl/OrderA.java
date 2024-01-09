@@ -27,5 +27,9 @@ public class OrderA {
 		System.out.println("25");
 		
 	}
+	private void pPlace() {
+		System.out.println("Project Place");
+
+	}
 	
 }
