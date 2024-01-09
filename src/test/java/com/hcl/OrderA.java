@@ -27,9 +27,13 @@ public class OrderA {
 		System.out.println("25");
 		
 	}
-	public void pDate() {
-		System.out.println("Date");
+	
+	private void pPlace() {
+		System.out.println("Project Place");
 
 	}
-	
+	public void pDate() {
+		System.out.println("Date");
+	}
 }
+
