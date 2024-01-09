@@ -25,5 +25,14 @@ public class OrderB {
 		System.out.println("998834225");
 		
 	}
+	public void pDate1() {
+		System.out.println("Starting date");
+
+	}
+	public void pDate2() {
+		System.out.println("Ending date");
+
+	}
+
 	
 }

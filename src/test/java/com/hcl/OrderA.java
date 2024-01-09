@@ -27,5 +27,9 @@ public class OrderA {
 		System.out.println("25");
 		
 	}
+	public void pDate() {
+		System.out.println("Date");
+
+	}
 	
 }
