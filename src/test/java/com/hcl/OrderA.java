@@ -15,5 +15,17 @@ public class OrderA {
 		
 	}
 	
+	public void empAge1() {
+		System.out.println("25");
+		
+	}
+	public void empAge2() {
+		System.out.println("28");
+		
+	}
+	public void empAge3() {
+		System.out.println("25");
+		
+	}
 	
 }

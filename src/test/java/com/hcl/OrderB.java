@@ -13,5 +13,17 @@ public class OrderB {
 		System.out.println("R0013");
 		
 	}
+	public void empPhone1() {
+		System.out.println("987653212");
+		
+	}
+	public void empPhone2() {
+		System.out.println("962345678");
+		
+	}
+	public void empPhone3() {
+		System.out.println("998834225");
+		
+	}
 	
 }
